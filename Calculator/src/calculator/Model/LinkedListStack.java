@@ -14,7 +14,7 @@ import java.util.Stack;
  */
 public class LinkedListStack<E> implements StackInterface<E> {
 
-    class Node {
+    public class Node {
         E element;
         Node next;
         public Node(E element){

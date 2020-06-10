@@ -4,16 +4,18 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/View/CalculatorView.java</file>
-            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/MenuData/ActionMenu.java</file>
-            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/View/MainComponent/MainComponent.java</file>
-            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/MVCCalculator.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/Model/LinkedListStack.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/Model/RegexApp.java</file>
             <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/MenuData/MenuData.java</file>
-            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/View/test.java</file>
             <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/Model/Expression.java</file>
-            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/Model/CalculatorModel.java</file>
             <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/Controller/CalculatorController.java</file>
-            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/demo.java</file>
-            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/View/Screen/Screen.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/MenuData/ActionMenuItem.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/MenuData/ActionMenu.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/View/HeaderComponent/HeaderComponent.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/View/MainComponent/MainComponent.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/Model/LinkedListQueue.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/MenuData/MenuItem.java</file>
+            <file>file:/C:/Users/Henry/Documents/NetBeansProjects/Calculator/src/calculator/Model/CalculatorModel.java</file>
         </group>
     </open-files>
 </project-private>
